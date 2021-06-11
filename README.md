@@ -1,6 +1,6 @@
 ## Remember
 
-In latest version of Kali Linux, You've to install it manually. you can not fount dnsdict linux distro.
+In latest version of Kali Linux, You've to install it manually. you can not found dnsdict linux distro.
 
 ## Install
 
